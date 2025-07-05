@@ -2,8 +2,8 @@
 This repostiory contains all my work from the AWS re/Start program, it includes Notes, Labs and Projects.
 
 # Content
-- labs - Hands-on lab exercises and scripts that I worked on
-- projects - Small hands-on projects to apply what I've learned
+- Labs - Hands-on lab exercises and scripts that I worked on
+- Projects - Small hands-on projects to apply what I've learned
 
 # Topics Covered
 - Cloud Foundations
