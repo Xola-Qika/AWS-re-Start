@@ -1,5 +1,5 @@
 # AWS-re-Start
-This repostiory contains all my work from the AWS re/Start program, it includes notes, labs and projects.
+This repostiory contains all my work from the AWS re/Start program, it includes Notes, Labs and Projects.
 
 # Content
 - labs - Hands-on lab exercises and scripts that I worked on
