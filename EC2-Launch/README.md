@@ -18,12 +18,8 @@ This lab is about launching, resizing, managing, and monitoring an Amazon EC2 in
 7. Resize EBS volume
 8. Start resized instance
 
-# Screenshot
-
-
-## Challenges I faced 
+## Challenges 
 - Configuring security group 
-
 
 ## Takeaways 
 - Make sure your security group has the correct inbound and outbound rules
