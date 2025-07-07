@@ -12,4 +12,4 @@ These labs are part of my ongoing effort to understand AWS cloud services, infra
 ## What I learned
 - How to launch an instance
 - Basics of databases and storage
-  
+- How to create an Amazon S3 bucket and upload objects
