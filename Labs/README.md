@@ -1,4 +1,4 @@
-# AWS Database Labs
+# AWS Labs
 This folder contains a collection of hands-on labs covering core AWS services and topics. 
 
 # Labs included
