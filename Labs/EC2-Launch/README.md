@@ -1,4 +1,4 @@
-# EC2 Launch
+# Compute Lab: EC2 Launch
 This lab is about launching, resizing, managing and monitoring an Amazon EC2 instance on AWS 
 
 ## Tasks
