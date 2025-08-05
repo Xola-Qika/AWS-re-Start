@@ -8,5 +8,18 @@
 - Use CloudWatch logs to troubleshoot any issues running a Lambda function.
 
 ## Tasks
+- Observing the IAM role settings
+- Creating a lambda layer and a data extractor lambda function
+- Testing the data extractor lambda function
+- Configuring notifications
+- Creating the salesAnalsysisReport lambda function
+
+## Challenges 
+- Adding lambda layer to the function
+- Navigating Multiple AWS console tabs
+
+## Takeaways 
+Using user data scripts when launching instances automates setup and saves time.
+
 
 
