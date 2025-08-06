@@ -19,8 +19,7 @@ Security group did not allow web traffic
 Subnets must be associated with route tables. 
 
 ## Screenshots
-![Uploading Screenshot 2025-08-05 at 10.33.20.png…]()
-
+<img width="1460" height="790" alt="EC2-Launch" src="https://github.com/user-attachments/assets/99578167-8370-406b-a863-e8c4f37ca225" />
 <img width="1470" height="840" alt="Screenshot 2025-08-06 at 18 26 14" src="https://github.com/user-attachments/assets/650b1635-af45-41bc-a251-b16305104849" />
 <img width="1470" height="841" alt="Screenshot 2025-08-06 at 18 27 04" src="https://github.com/user-attachments/assets/f4b2b8cf-323f-4b75-94f2-29cc97eba5c0" />
 <img width="1470" height="840" alt="Screenshot 2025-08-06 at 18 30 30" src="https://github.com/user-attachments/assets/7ea18751-d072-42ab-a3c3-36b900a34804" />
