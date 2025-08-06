@@ -17,3 +17,12 @@ This lab is about launching, resizing, managing and monitoring an Amazon EC2 ins
 - Make sure your security group has the correct inbound rules
 - Enable the termiantion protection to avoid accidentally deleting instances 
   
+## Screenshots 
+<img width="1470" height="838" alt="Screenshot 2025-08-06 at 12 22 41" src="https://github.com/user-attachments/assets/648082fa-a8d4-4a66-8df9-8ebb74f220c6" />
+<img width="1470" height="839" alt="Screenshot 2025-08-06 at 12 24 15" src="https://github.com/user-attachments/assets/27136b24-b433-4e43-8126-cf1ada284aa6" />
+<img width="1463" height="838" alt="Screenshot 2025-08-06 at 12 33 16" src="https://github.com/user-attachments/assets/40d62115-ec6c-4cc3-be2b-b25e683ae71f" />
+<img width="1470" height="836" alt="Screenshot 2025-08-06 at 12 39 17" src="https://github.com/user-attachments/assets/9bfb9216-9df9-40f3-9a70-33dce7d02cd5" /><img width="1470" height="838" alt="Screenshot 2025-08-06 at 12 40 52" src="https://github.com/user-attachments/assets/b3a344cc-8fdf-4c4d-8bca-13432b0dfdd0" />
+
+
+
+
