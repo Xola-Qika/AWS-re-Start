@@ -21,7 +21,6 @@ Private subnets need NAT for outbound internet
 Subnets must be associated with route tables 
 
 ## Screenshots
-<img width="1470" height="840" alt="Screenshot 2025-08-06 at 18 26 14" src="https://github.com/user-attachments/assets/8ff6b242-d1e3-487a-a2d0-b1def5145595" />
 <img width="1470" height="840" alt="Screenshot 2025-08-06 at 18 26 14" src="https://github.com/user-attachments/assets/650b1635-af45-41bc-a251-b16305104849" /># Networking Lab: Build Your VPC and Launch a Web Server
 
 <img width="1470" height="841" alt="Screenshot 2025-08-06 at 18 27 04" src="https://github.com/user-attachments/assets/f4b2b8cf-323f-4b75-94f2-29cc97eba5c0" />
