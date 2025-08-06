@@ -19,6 +19,7 @@ The challenge I faced was listing the AWS contents using the AWS CLI as it was m
 - Learned how to connect to the AWS CLI and use some commands.
 
 ## Screenshots
+<img width="1454" height="792" alt="Amazon S3 " src="https://github.com/user-attachments/assets/ae86f003-a32d-4650-ba71-31241da92d30" />
 <img width="1470" height="840" alt="Screenshot 2025-08-06 at 20 05 37" src="https://github.com/user-attachments/assets/3ebeb693-41da-49dd-8b7c-30cb935b66de" />
 <img width="1470" height="840" alt="Screenshot 2025-08-06 at 20 05 16" src="https://github.com/user-attachments/assets/8d6d7774-3895-451a-bbc4-3ddb0c674386" />
 <img width="1470" height="838" alt="Screenshot 2025-08-06 at 20 10 42" src="https://github.com/user-attachments/assets/9281d875-91ef-470a-ab12-e98d4597d04e" />
