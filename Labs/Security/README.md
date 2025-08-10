@@ -4,16 +4,16 @@
 Create an Amazon SNS notification, congifure a cloudwatch alarm, stress test an EC2 instance, confirm that an Amazon SNS email was sent and create cloudwatch dashboard
 
 ## Tasks 
-- Conifgure Amazon SNS
-- Create cloudwatch alarm
-- Test the cloudwatch alarm
-- Create a cloudwatch dashboard
+- Conifgure Amazon SNS - I created a SNS topic to send alerts and subscribed my email to it. This way if something happens in AWS, the system can send me a message automatically. 
+- Create cloudwatch alarm - I made a CloudWatch alarm to watch the CPU usage of the EC2 instance. If the CPU went above 60%, the alarm would trigger and send an email through the SNS topic.
+- Test the cloudwatch alarm - I ran a stress on the EC2 to make the CPU go over 60%. I saw the alarm change to "In Alarm" in CLoudWatch and got the email alert. This showed that what I did worked.
+- Create a cloudwatch dashboard - I created a dashboard in CloudWatch to see the CPU usage of the EC2 instance in real time. This makes it easy to monitor the instance without checking manually. 
 
 ## Challenges 
-CloudWatch alarm did not trigger 
+One challenge was that the CPU took time to go over 60%, so I could not receive the email notification during the test. 
 
 ## Takeaways 
-You must confirm SNS emails to get alerts 
+I learned how to set up Amazon SNS for notifications, create and test Cloudwatch alarms, and build a CloudWatch dashboard to monitor EC2 metrics. 
 
 ## Screenshots
 <img width="1470" height="831" alt="Screenshot 2025-08-10 at 18 38 59" src="https://github.com/user-attachments/assets/b8e49d6a-8094-44be-a504-c5953af14b02" />
