@@ -16,6 +16,7 @@ This lab was straightforward and I did not face any challenges
 - Learned the difference between Query and Scan and when each is appropriate.
 
 ## Screenshots
+<img width="1457" height="732" alt="NoSQL (1)" src="https://github.com/user-attachments/assets/044f9f39-9a63-4200-8a4b-7e8c2bf347fa" />
 <img width="1470" height="834" alt="Screenshot 2025-08-10 at 17 09 05" src="https://github.com/user-attachments/assets/8eebc365-8a12-4b8e-8152-3e94b30522b4" />
 <img width="1470" height="830" alt="Screenshot 2025-08-10 at 17 14 13" src="https://github.com/user-attachments/assets/e310c88e-a27c-4ae5-9cbf-c26a6505246c" />
 <img width="1470" height="832" alt="Screenshot 2025-08-10 at 17 15 09" src="https://github.com/user-attachments/assets/7db011c3-e4fa-4d9b-895f-5cdb662553ae" />
