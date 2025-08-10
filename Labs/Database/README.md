@@ -2,22 +2,18 @@
 This lab shows how to create and interact with DynamoDB table on AWS. It shows basic NoSQL concepts, creating a table, inserting data, querying and deleting an Amazon table. 
 
 ## Tasks
-- Creating an Amazon DynamoDB table
-- Enter data into Amazon DynamoDB table
-- Query an Amazon DynamoDB table
-- Delete an Amazon DynamoDB table
-
-## Why it matters 
-- DynamoDB is a fast and flexible NoSQL database service for building scalable and better applications on AWS.
-- Throught this lab I gained practical knowledge of how to create a DynamoDB table and manage its data in a NoSQL environement
+- Creating an Amazon DynamoDB table - Provisioned a new table named Music with Artist as the partition key and Song as the sort key. 
+- Enter data into Amazon DynamoDB table - I added three music records with each different attributes to demonstrate DynamoDB's flexibility. For example one song had a Genre field, while another had LengthSeconds. This showed that DynamoDB does not require a fixed schema.
+- Query an Amazon DynamoDB table - I used both Query operation to quickly find "Gangnam Style" by its partition and sort key, and the Scan operation to find songs released in 1971. This helped me understand the difference in speed between querying and scanning.
+- Delete an Amazon DynamoDB table - Once I finished, I deleted the Music table which also removed all stored items.
 
 ## Challenges 
 This lab was straightforward and I did not face any challenges
 
 ## Takeaways
-- Learned how to create and manage DynamoDB table
-- Designing the tables with partition and sort keys
-- Two ways of querying the table which are query and scan
+- Gained practical experience creating and managing a DynamoDB table, including adding, modifying and deleting items.
+- Understood the importance of creating tables with a partition key and optional sort key to ensure efficient data retrieval and unique identification of records.
+- Learned the difference between Query and Scan and when each is appropriate.
 
 ## Screenshots
 <img width="1470" height="834" alt="Screenshot 2025-08-10 at 17 09 05" src="https://github.com/user-attachments/assets/8eebc365-8a12-4b8e-8152-3e94b30522b4" />
