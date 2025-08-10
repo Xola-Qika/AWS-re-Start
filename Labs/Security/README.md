@@ -1,4 +1,4 @@
-<img width="1470" height="831" alt="Screenshot 2025-08-10 at 19 09 22" src="https://github.com/user-attachments/assets/6da72eef-ff9a-44aa-b16c-2fd15da0aba8" /># Security Lab: Monitor an EC2 Instance 
+# Security Lab: Monitor an EC2 Instance 
 
 ## Objective 
 Create an Amazon SNS notification, congifure a cloudwatch alarm, stress test an EC2 instance, confirm that an Amazon SNS email was sent and create cloudwatch dashboard
